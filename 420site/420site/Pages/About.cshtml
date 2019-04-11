@@ -1,0 +1,31 @@
+﻿@page
+@model AboutModel
+@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"]</h2>
+
+<div style="overflow:auto">
+    <div class="menu" style="color:black">
+        <a asp-page="/Index" target="_blank">Home</a>
+        <a asp-page="/About" target="_blank">About</a>
+        <a asp-page="/Contact" target="_blank">Contact</a>
+        <a href="https://www.hoofky.org/donate" target="_blank">Donate</a><br><br>
+        <div class="search-container">
+            <input type="text" placeholder="Search.." name="search">
+            <button type="submit"><i class="fa fa-search"></i></button>
+        </div>
+
+        <br><br><br>
+
+        <div class="right" style="color:black">
+            <strong><h3 style="color:black">What do we provide?</h3></strong>
+            HOOF KY in partnership with the Louisville Equestrian Center has developed weekly summer Equine Academies that teach riding,
+            equine care, equine physiology/psychology, and barn management in a safe and controlled environment. Participants are taught by ARIA certified instructors and trained counselors who
+            provide equine expertise and build caring, pro-social relationships with each young person. Instructors (and the horses) expect participants to work, give respect, be responsible, and
+            believe that they can reach beyond themselves.<br><br><br>
+            <strong><h3 style="color:black">Why do we provide it?</h3></strong>
+            Today young people are challenged to make healthy decisions in a culture laden with negative influences.   Given the stressors of family disruption, violence, and substance abuse, many youth
+            become distrustful and build walls protecting themselves from their environments.  Many experience low self-image and a declining sense of personal empowerment, hiding behind the defenses of
+            negative behaviors, manipulation, and isolation.  </p>
+        </div>

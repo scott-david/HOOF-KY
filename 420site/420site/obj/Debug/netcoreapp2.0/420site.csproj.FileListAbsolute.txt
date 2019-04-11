@@ -1,0 +1,22 @@
+C:\Users\Admin\Desktop\420site\420site\bin\Debug\netcoreapp2.0\420site.deps.json
+C:\Users\Admin\Desktop\420site\420site\bin\Debug\netcoreapp2.0\420site.runtimeconfig.json
+C:\Users\Admin\Desktop\420site\420site\bin\Debug\netcoreapp2.0\420site.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\420site\420site\bin\Debug\netcoreapp2.0\420site.dll
+C:\Users\Admin\Desktop\420site\420site\bin\Debug\netcoreapp2.0\420site.pdb
+C:\Users\Admin\Desktop\420site\420site\obj\Debug\netcoreapp2.0\420site.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\420site\420site\obj\Debug\netcoreapp2.0\420site.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\420site\420site\obj\Debug\netcoreapp2.0\420site.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\420site\420site\obj\Debug\netcoreapp2.0\420site.AssemblyInfo.cs
+C:\Users\Admin\Desktop\420site\420site\obj\Debug\netcoreapp2.0\420site.dll
+C:\Users\Admin\Desktop\420site\420site\obj\Debug\netcoreapp2.0\420site.pdb
+C:\Users\Scott Morgan\Documents\CIS 420\420site(2)\420site\420site\bin\Debug\netcoreapp2.0\420site.deps.json
+C:\Users\Scott Morgan\Documents\CIS 420\420site(2)\420site\420site\bin\Debug\netcoreapp2.0\420site.runtimeconfig.json
+C:\Users\Scott Morgan\Documents\CIS 420\420site(2)\420site\420site\bin\Debug\netcoreapp2.0\420site.runtimeconfig.dev.json
+C:\Users\Scott Morgan\Documents\CIS 420\420site(2)\420site\420site\bin\Debug\netcoreapp2.0\420site.dll
+C:\Users\Scott Morgan\Documents\CIS 420\420site(2)\420site\420site\bin\Debug\netcoreapp2.0\420site.pdb
+C:\Users\Scott Morgan\Documents\CIS 420\420site(2)\420site\420site\obj\Debug\netcoreapp2.0\420site.csprojAssemblyReference.cache
+C:\Users\Scott Morgan\Documents\CIS 420\420site(2)\420site\420site\obj\Debug\netcoreapp2.0\420site.csproj.CoreCompileInputs.cache
+C:\Users\Scott Morgan\Documents\CIS 420\420site(2)\420site\420site\obj\Debug\netcoreapp2.0\420site.AssemblyInfoInputs.cache
+C:\Users\Scott Morgan\Documents\CIS 420\420site(2)\420site\420site\obj\Debug\netcoreapp2.0\420site.AssemblyInfo.cs
+C:\Users\Scott Morgan\Documents\CIS 420\420site(2)\420site\420site\obj\Debug\netcoreapp2.0\420site.dll
+C:\Users\Scott Morgan\Documents\CIS 420\420site(2)\420site\420site\obj\Debug\netcoreapp2.0\420site.pdb

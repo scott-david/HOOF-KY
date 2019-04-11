@@ -1,0 +1,35 @@
+﻿@page
+@model ContactModel
+@{
+    ViewData["Title"] = "Contact";
+}
+<h2>@ViewData["Title"]</h2>
+
+<div style="overflow:auto">
+    <div class="menu" style="color:black">
+        <a asp-page="/Index" target="_blank">Home</a>
+        <a asp-page="/About" target="_blank">About</a>
+        <a asp-page="/Contact" target="_blank">Contact</a>
+        <a href="https://www.hoofky.org/donate" target="_blank">Donate</a><br><br>
+        <div class="search-container">
+            <input type="text" placeholder="Search.." name="search">
+            <button type="submit"><i class="fa fa-search"></i></button>
+        </div>
+
+        <br><br><br>
+
+       
+
+        <address>
+            <br />
+            Horses Offering Opportunities<br />
+            for the Future, Inc.<br />
+
+            P.O. Box 1303<br />
+            Prospect, KY 40059<br />
+            502-558-7323<br />
+        </address>
+
+        <address>
+            <strong>Support:</strong> <a href="mailto:hoofky@gmail.com">hoofky@gmail.com</a><br />
+        </address>
